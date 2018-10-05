@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="app_name2">Activity 2</string>
+
+    <string name="Title">Relief Map of the Philippine Islands</string>
+    <string name="Text1">Location:</string>
+    <string name="Text2">Distance:</string>
+    <string name="Location1">Rizal Park, Manila, Luzon Philippines</string>
+    <string name="Distance1">1.7 km from University of Santo Tomas</string>
+
+    <string name="Title2">Manila Ocean Park</string>
+    <string name="Location2">Manila, Luzon 1000 Philippines</string>
+    <string name="Distance2">3.9 km from University of Santo Tomas</string>
+
+    <string name="Activity1">Activity 1</string>
+    <string name="Activity2">Activity 2</string>
+    <string name="Maps">Map</string>
+
+</resources>
